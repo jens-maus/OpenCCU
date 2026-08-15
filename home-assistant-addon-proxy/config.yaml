@@ -1,13 +1,13 @@
 ---
 name: OpenCCU (Proxy)
-version: 0.6.1
+version: 0.6.3
 slug: openccu_proxy
-image: ghcr.io/openccu/openccu-proxy
+image: ghcr.io/jens-maus/openccu-proxy
 arch:
   - aarch64
   - amd64
 description: Proxy to externally running OpenCCU
-url: https://github.com/OpenCCU/OpenCCU
+url: https://github.com/jens-maus/OpenCCU
 ingress: true
 ingress_stream: true
 panel_title: OpenCCU
