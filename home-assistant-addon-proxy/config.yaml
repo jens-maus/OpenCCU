@@ -1,6 +1,6 @@
 ---
 name: OpenCCU (Proxy)
-version: 0.6.3
+version: 0.6.4
 slug: openccu_proxy
 image: ghcr.io/jens-maus/openccu-proxy
 arch:
